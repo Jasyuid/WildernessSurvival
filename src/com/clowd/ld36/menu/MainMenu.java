@@ -60,7 +60,7 @@ public class MainMenu extends Menu{
 			Font.render2(screen, "HELP", 20, 220, 0x00ff00);
 		}
 		
-		Font.render(screen, "ClowdStrike Studios 2016", 5, 335, 0xffffff);
+		Font.render(screen, "Made by Justin Symmank", 5, 335, 0xffffff);
 	}
 	
 }
