@@ -1,0 +1,20 @@
+LUDUM DARE 36
+============================================
+Theme = "Ancient Technology"
+- You are a caveman
+- Defend your camp using ancient weapons
+- Enemies drop weapons
+- Enemies come from all sides of screen
+
+Enemies:
+	-Wolves
+	-Bears
+	-Tigers
+	-Other Cavemen
+	-Boss = BIGFOOT
+	
+Weapons:
+	-Club
+	-Spears(Throwing?)
+	-Bow and Arrows
+	-Secret Futuristic Plasma Gun (Maybe)
